@@ -19,6 +19,6 @@ Connect with me:
 Languages and Tools:
 &emsp;
 <a href="https://www.linkedin.com/in/yashwardhan-tulsyan-b0670b219/">
-  ![Linkedin: Yashwardhan Tulsyan](https://img.shields.io/endpoint?color=blue&label=Yashwardhan%20Tulsyan&logo=linkedin)
+  ![Linkedin: Yashwardhan Tulsyan](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
   
