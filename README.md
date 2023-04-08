@@ -24,4 +24,7 @@ Connect with me:
 <a href="https://www.linkedin.com/in/yashwardhan-tulsyan-b0670b219/">
   ![Linkedin: Yashwardhan Tulsyan](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
+<a href="https://www.instagram.com/yash_raj_tulsyan/">
+  ![Instagram: yash_raj_tulsyan](https://img.shields.io/badge/-yash__raj__tulsyan-000?&logo=Instagram)
+</a>
   
