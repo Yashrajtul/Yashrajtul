@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Connect with me:
+
+Languages and Tools:
+&emsp;
+<a href="https://www.linkedin.com/in/yashwardhan-tulsyan-b0670b219/">
+  ![Linkedin: Yashwardhan Tulsyan]
+</a>
+  
