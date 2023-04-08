@@ -51,3 +51,25 @@ Here are some ideas to get you started:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+
+&emsp;
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
+<p align "center">
+  <img alt="Yashrajtul's Github stats" src="https://github-readme-stats.vercel.app/api?username=Yashrajtul&theme=radical&show_icons=true" />
+&nbsp 
+  <img alt="Yashrajtul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajtul&layout=compact&theme=radical" />
+</p>
+
+### 🔥 Streak Stats
+
+<p align="center"><img alt="Yashrajtul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Yashrajtul&theme=tokyonight_duo" /></p>
+
+### 📊 Contribution Stats
+
+<img alt="Yashrajtul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yashrajtul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
