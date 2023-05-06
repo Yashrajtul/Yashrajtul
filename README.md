@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yashwardhan Tulsyan
+<h1 align="center"> Hi there 👋 I'm Yashwardhan Tulsyan </h1>
 
 <!--
 **Yashrajtul/Yashrajtul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 ---------------
-
 
 &emsp;
 <a href="https://www.linkedin.com/in/yashwardhan-tulsyan-b0670b219/">
@@ -84,6 +83,8 @@ Here are some ideas to get you started:
 </p>
 
 ------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashrajtul&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Yashrajtul" /> </p>
+
 Credit: [Yashrajtul](https://github.com/Yashrajtul)
 
 
