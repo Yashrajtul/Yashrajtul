@@ -73,3 +73,17 @@ Here are some ideas to get you started:
 
 <img alt="Yashrajtul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yashrajtul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
+### ⚡ Commit Stats
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yashrajtul/Yashrajtul/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yashrajtul/Yashrajtul/blob/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/Yashrajtul/Yashrajtul/blob/output/github-snake-dark.svg">
+</picture>
+</p>
+
+------
+Credit: [Yashrajtul](https://github.com/Yashrajtul)
+
+
