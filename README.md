@@ -41,12 +41,14 @@ Here are some ideas to get you started:
 ### Frontend development:
 &emsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio)
 
 
 ### Databases:
