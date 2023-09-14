@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/yash_raj_tulsyan/">
   ![Instagram: yash_raj_tulsyan](https://img.shields.io/badge/-yash__raj__tulsyan-000?&logo=Instagram)
 </a>
+<a href="https://twitter.com/YashwardhanTul1">
+  ![Twitter: YashwardhanTul1](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-000?&logo=X)
+</a>
 
 &emsp;
 
