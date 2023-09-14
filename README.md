@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ### Frontend development:
 &emsp;
