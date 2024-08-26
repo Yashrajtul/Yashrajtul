@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 &emsp;
 
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://api.badgr.io/public/assertions/G0wcOpz_RjGsADXW8SXBsw?identity__email=yashrajtulsyan%40gmail.com">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/G0wcOpz_RjGsADXW8SXBsw?identity__email=yashrajtulsyan@gmail.com"><img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
 </div>
 
 ## 📈 My GitHub Stats and Activity
