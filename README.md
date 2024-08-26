@@ -60,6 +60,11 @@ Here are some ideas to get you started:
 
 &emsp;
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>
+
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
@@ -77,6 +82,7 @@ Here are some ideas to get you started:
 ### 📊 Contribution Stats
 
 <img alt="Yashrajtul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yashrajtul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 
 ### ⚡ Commit Stats
 
