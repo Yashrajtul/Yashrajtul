@@ -38,11 +38,13 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 
 ### Frontend development:
 &emsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Misc tools:
 &emsp;
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-
+![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 
 ## 📈 My GitHub Stats and Activity
 
