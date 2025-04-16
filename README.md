@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/YashwardhanTul1">
   ![Twitter: YashwardhanTul1](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-000?&logo=X)
 </a>
+<a href="https://leetcode.com/u/yashrajtulsyan">
+  ![Leetcode: yashrajtulsyan](https://img.shields.io/badge/Yashwardhan%20Tulsyan-000?logo=leetcode&logoColor=white)
+</a>
 
 &emsp;
 
