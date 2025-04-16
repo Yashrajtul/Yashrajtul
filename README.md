@@ -78,8 +78,10 @@ Here are some ideas to get you started:
 <p align="center"><img alt="Yashrajtul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Yashrajtul&theme=tokyonight_duo" /></p>
 
 ### 📊 Contribution Stats
-
+<!--
 <img alt="Yashrajtul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yashrajtul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+-->
+<img alt="Yashrajtul's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Yashrajtul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
 ### ⚡ Commit Stats
