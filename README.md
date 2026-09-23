@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 &emsp;
 <a href="https://www.linkedin.com/in/yashwardhan-tulsyan-b0670b219/">
-  ![Linkedin: Yashwardhan Tulsyan](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-blue?style=flat-square&logo=Linkedin&logoColor=white)
+  ![Linkedin: Yashwardhan Tulsyan](https://img.shields.io/badge/-Yashwardhan%20Tulsyan-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white)
 </a>
 <a href="https://www.instagram.com/yash_raj_tulsyan/">
   ![Instagram: yash_raj_tulsyan](https://img.shields.io/badge/-yash__raj__tulsyan-000?&logo=Instagram)
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk)
 
 ### Frontend development:
 &emsp;
@@ -49,13 +50,18 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
+### Backend development:
+&emsp;
+![Springboot](https://img.shields.io/badge/-Springboot-000?logo=spring)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express)
+
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android-Studio)
-
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?logo=eclipse)
 
 ### Databases:
 &emsp;
